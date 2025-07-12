@@ -29,7 +29,7 @@ A minimal and practical FastAPI project for ingesting, storing, and managing FHI
 
 ## 🔧 How to Run Locally
 
-1. *Clone the repository*  
+1.Clone the repository 
    ```
     git clone https://github.com/your-username/fhir-ingestion-api.git
    cd fhir-ingestion-api
